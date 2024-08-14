@@ -4,7 +4,7 @@ The CloudWatch Log Normalizer project involves setting up an automated system to
 ## Create Config File
 1. Create file with name 'config.ini'
 
-    [Dev]
+        [Dev]
    
        aws_access_key_id = <aws_access_key_id>
    
